@@ -1,2 +1,2 @@
-# ng
-https://perishablepress.com/ng-firewall/
+# 8G FIREWALL
+# https://perishablepress.com/8g-firewall/
