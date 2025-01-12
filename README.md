@@ -1,2 +1,2 @@
 # 8G FIREWALL
-# https://perishablepress.com/8g-firewall/
+https://perishablepress.com/8g-firewall/
